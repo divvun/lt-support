@@ -71,6 +71,18 @@ While waiting for a Unicode like model for maintaining language codes, it is nec
 
 TBW.
 
+Points to cover:
+
+- glyph coverage
+- glyph fallbacks
+- proper combining diacritic handling (cf Kildin Sámi)
+
 # Keyboards
 
 TBW.
+
+Points to cover:
+
+- open keyboard file format
+- native rendering
+- proper naming/organisation (cf ChromeOS)
