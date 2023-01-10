@@ -1,3 +1,9 @@
+<style>
+.blocked {background: red}
+.partial {background: yellow}
+.good    {background: green}
+</style>
+
 # Language technology support for *all* languages in core digital systems
 
 An effort to document the (lack of) support for most of the languages of the world in all major digital systems.
@@ -21,9 +27,12 @@ This site aims to document all areas where human languages matter on digital pla
 
 # Colour coding of status
 
-- <span class="red">red:</span> unaccessible for independent 3rd parties
-- yellow: partially accessible for independent 3rd parties
-- green: fully accessible for independent 3rd parties
+<table>
+<tr><th>Colour</th> <th>Description</th></tt>
+<tr><td class="blocked">Red</td>    <td>unaccessible for independent 3rd parties</td></tr>
+<tr><td class="partial">Yellow</td> <td>partially accessible for independent 3rd parties</td></tr>
+<tr><td class="good"   >Green</td>  <td>fully accessible for independent 3rd parties</td></tr>
+</table>
 
 Links to documentation is provided if available/found.
 
