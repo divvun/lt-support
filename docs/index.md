@@ -1,9 +1,3 @@
-<style>
-.blocked {background: red}
-.partial {background: yellow}
-.good    {background: green}
-</style>
-
 # Language technology support for *all* languages in core digital systems
 
 An effort to document the (lack of) support for most of the languages of the world in all major digital systems.
