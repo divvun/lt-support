@@ -34,7 +34,7 @@ Links to documentation is provided if available/found.
 # Sections
 
 - [basics: language codes, fonts, keyboards](core.md)
-- proofing tools
+- [proofing tools](proof.md)
 - speech technology, including digital assistants
 - localisation
 - indexing and search
