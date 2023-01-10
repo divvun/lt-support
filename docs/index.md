@@ -20,6 +20,14 @@ This site aims to document all areas where human languages matter on digital pla
 
 [Technology exists](https://giellalt.github.io) for building [language technology tools](https://github.com/divvun) for most areas and most languages, but making those tools available on the systems people use is a very different matter. The documentation gathered here aims to change that.
 
+# Colour coding of status
+
+- red: unsupported by independent 3rd parties
+- yellow: partially supported by independent 3rd parties
+- green: fully supported by independent 3rd parties
+
+Links to documentation is provided if available/found.
+
 # Sections
 
 - fonts, keyboards and input methods
