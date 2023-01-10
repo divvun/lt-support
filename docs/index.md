@@ -18,7 +18,7 @@ The core of the present state is that the language is owned by the tech giants, 
 
 This site aims to document all areas where human languages matter on digital platforms, and whether that area is open for community access or control.
 
-[Technology exists](https://giellalt.github.io) for building language technology tools for most areas, but making those tools available on the systems people use is a fullly different matter. The documentation gathered here aims to change that.
+[Technology exists](https://giellalt.github.io) for building [language technology tools](https://github.com/divvun) for most areas and most languages, but making those tools available on the systems people use is a fullly different matter. The documentation gathered here aims to change that.
 
 # Sections
 
