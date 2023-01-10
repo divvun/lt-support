@@ -48,7 +48,7 @@ It is unfortunate that the ISO 639 series of language codes are maintained by se
 <tr><td>LibreOffice</td><td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
 </table>
 
-## Possibility of adding missing language codes
+## Possibility of adding or registering missing language codes
 
 While waiting for a Unicode like model for maintaining language codes, it is necessary that users or independent developers can add missing language codes as needed. The following table describes the status for this option.
 
