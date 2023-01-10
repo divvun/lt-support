@@ -60,7 +60,7 @@ While waiting for a Unicode like model for maintaining language codes, it is nec
 <tr><td>Android</td>    <td class="blocked">No</td>      <td class="blocked">No</td>  <td class="blocked">No</td></tr>
 <tr><td>iOS</td>        <td class="blocked">No</td>      <td class="blocked">No</td>  <td class="blocked">No</td></tr>
 <tr><td>ChromeOS</td>   <td class="blocked">No</td>      <td class="blocked">No</td>  <td class="blocked">No</td></tr>
-<tr><td>O365/Win</td>   <td class="partial">Yes (Via Windows)</td> <td class="good"   >Yes</td> <td class="good">Yes</td></tr>
+<tr><td>O365/Win</td>   <td class="partial">Partial (Via Windows)</td> <td class="good"   >Yes</td> <td class="good">Yes</td></tr>
 <tr><td>O365/Mac</td>   <td class="blocked">No</td>      <td class="blocked">No</td>  <td class="blocked">No</td></tr>
 <tr><td>O365/Web</td>   <td class="blocked">No</td>      <td class="blocked">No</td>  <td class="blocked">No</td></tr>
 <tr><td>GDocs</td>      <td class="blocked">No</td>      <td class="blocked">No</td>  <td class="blocked">No</td></tr>
