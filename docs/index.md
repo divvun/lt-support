@@ -26,6 +26,7 @@ This site aims to document all areas where human languages matter on digital pla
 <tr><td class="blocked">Red</td>    <td>unaccessible for independent 3rd parties</td></tr>
 <tr><td class="partial">Yellow</td> <td>partially accessible for independent 3rd parties</td></tr>
 <tr><td class="good"   >Green</td>  <td>fully accessible for independent 3rd parties</td></tr>
+<tr><td class="unknown">Gray</td>   <td>accessibility status unknown</td></tr>
 </table>
 
 Links to documentation is provided if available/found.
