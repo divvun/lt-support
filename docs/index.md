@@ -16,9 +16,8 @@ More importantly, no-one else can add their own language to e.g. Siri, or as pro
 
 The core of the present state is that the language is owned by the tech giants, not by the language community anymore, since most language communities have no way of controlling when and how their language is available or used in the digital sphere.
 
+[Technology exists](https://giellalt.github.io) for building [language technology tools](https://github.com/divvun) for most areas and most languages, but making those tools available on the systems people use is a very different matter.
 This site aims to document all areas where human languages matter on digital platforms, and whether that area is open for community access or control.
-
-[Technology exists](https://giellalt.github.io) for building [language technology tools](https://github.com/divvun) for most areas and most languages, but making those tools available on the systems people use is a very different matter. The documentation gathered here aims to change that.
 
 # Colour coding of status
 
