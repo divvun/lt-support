@@ -10,7 +10,7 @@ An effort to document the (lack of) support for most of the languages of the wor
 - 50+ system & TTS languages in [macOS](https://support.apple.com/en-us/HT206175)
 - 20 dictation and Siri languages in macOS & iOS
 
-That is, the more advanced language technology, the fewer are supported.
+That is, MOST languages of the world has no support whatsoever. And for those with support, the more advanced language technology, the fewer are supported.
 
 More importantly, no-one else can add their own language to e.g. Siri, or as proofing language in Office 365 on the web. The same goes for Google Docs, and almost all web-based applications.
 
