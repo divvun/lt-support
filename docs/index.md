@@ -35,7 +35,7 @@ Links to documentation is provided if available/found.
 
 - [basics: language codes, fonts, keyboards](core.md)
 - [proofing tools](proof.md)
-- speech technology, including digital assistants
-- localisation
-- indexing and search
-- packaging and distribution of language support
+- [speech technology, including digital assistants](speech.md)
+- [localisation](localisation.md)
+- [indexing and search](indexing.md)
+- [packaging and distribution of language support](langpacks.md)
