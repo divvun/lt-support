@@ -28,7 +28,7 @@ This site aims to document all areas where human languages matter on digital pla
 # Colour coding of status
 
 <table>
-<tr><th>Colour</th> <th>Description</th></tt>
+<tr><th>Colour</th> <th>Description</th></tr>
 <tr><td class="blocked">Red</td>    <td>unaccessible for independent 3rd parties</td></tr>
 <tr><td class="partial">Yellow</td> <td>partially accessible for independent 3rd parties</td></tr>
 <tr><td class="good"   >Green</td>  <td>fully accessible for independent 3rd parties</td></tr>
