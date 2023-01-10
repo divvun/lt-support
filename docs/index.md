@@ -33,7 +33,7 @@ Links to documentation is provided if available/found.
 
 # Sections
 
-- fonts, keyboards and input methods
+- [basics: language codes, fonts, keyboards](core.md)
 - proofing tools
 - speech technology, including digital assistants
 - localisation
