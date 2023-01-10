@@ -21,7 +21,7 @@ This site aims to document all areas where human languages matter on digital pla
 
 # Colour coding of status
 
-- red: unaccessible for independent 3rd parties
+- <span style="background-color:red">red:</span> unaccessible for independent 3rd parties
 - yellow: partially accessible for independent 3rd parties
 - green: fully accessible for independent 3rd parties
 
