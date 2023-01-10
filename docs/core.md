@@ -77,12 +77,12 @@ Points to cover:
 - glyph fallbacks
 - proper combining diacritic handling (cf Kildin Sámi)
 
-# Keyboards
+# Keyboards and input methods
 
 TBW.
 
 Points to cover:
 
-- open keyboard file format
+- open keyboard file format or API's
 - native rendering
-- proper naming/organisation (cf ChromeOS)
+- proper naming/organisation/display (cf ChromeOS)
