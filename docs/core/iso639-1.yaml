@@ -1,0 +1,13 @@
+title: ISO 639-1
+column_titles:
+  - System
+  - Codes
+  - Documentation
+  - Language name in English
+  - Language name native language
+system:
+  Linux:
+    codes: y
+    docs: -
+    ename: y
+    nname: y
