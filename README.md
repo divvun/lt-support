@@ -1,6 +1,6 @@
 # lt-support
 
-Documentation of support for all aspects of language technology in various OS and office applications.
+Documentation of support for all aspects of language technology in various OS and office applications. It is inspired by the [Can I use](https://caniuse.com) site.
 
 [The documentation](docs/index.md).
 
