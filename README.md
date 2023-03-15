@@ -14,7 +14,12 @@ The values used in the yaml files are as follows:
 - `p`: `partial` - the feature is only partially implemented/available by a NDA/...
 - `u`: `unknown` - the status of a feature on a system is unknonw
 
-Documentation links can be both internal and external. There might be image links.
+Documentation links can be both internal and external:
+- if there is one authorative, external doc, link directly to it
+- if there is a collection of docs that together documents the use of an API/a feature,
+  these should be linked to from a separate internal doc, which is linked to from the yaml file
+
+There might be image links to illustrate some of the issues described.
 
 # Contribution
 
