@@ -48,6 +48,53 @@ WARNING: root access required to change system language
  q) Quit
 ```
 
+With added language/locale codes, we have the following table (locale code added
+manually):
+
+| Apple name              | English name  | BCP-47 |
+| ----------------------- | ------------- |:------ |
+| English                 | English       | en     |
+| English (UK)            | English       | en_GB  |
+| English (Australia)     | English       | en_AU  |
+| English (India)         | English       | en_IN  |
+| 简体中文                    | Chinese (Simplified)  | zh_CN  |
+| 繁體中文                    | Chinese (Traditional) | zh_TW  |
+| 繁體中文（香港）                | Chinese (Honk Kong)   | zh_HK  |
+| 日本語                     | Japanese      | ja     |
+| Español                 | Spanish       | es     |
+| Español (Latinoamérica) | Spanish       | es_419 |
+| Français                | French        | fr     |
+| Français (Canada)       | French        | fr_CA  |
+| Deutsch                 | German        | de     |
+| Русский                 | Russian       | ru     |
+| Português (Brasil)      | Portuguese    | pt_BR  |
+| Português (Portugal)    | Portuguese    | pt_PT  |
+| Italiano                | Italian       | it     |
+| 한국어                     | Korean        | ko     |
+| Türkçe                  | Turkish       | tr     |
+| Nederlands              | Dutch         | nl     |
+| العربية                 |              Arabic    |       ar |
+| ภาษาไทย                 | Thai          | th     |
+| Svenska                 | Swedish       | sv     |
+| Dansk                   | Danish        | da     |
+| Tiếng Việt              | Vietnamese    | vi     |
+| Norsk bokmål            | Norwegian bokmål | no     |
+| Polski                  | Polish        | pl     |
+| Suomi                   | Finnish       | fi     |
+| Bahasa Indonesia        | Indonesian    | id     |
+| עברית                   |              Hebrew |     he |
+| Ελληνικά                | Greek         | el     |
+| Română                  | Romanian      | ro     |
+| Magyar                  | Hungarian     | hu     |
+| Čeština                 | Czech         | cs     |
+| Català                  | Catalan       | ca     |
+| Slovenčina              | Slovak        | sk     |
+| Українська              | Ukrainian     | uk     |
+| Hrvatski                | Croatian      | hr     |
+| Bahasa Melayu           | Malay         | ms     |
+| हिन्दी                  | Hindi         | hi     |
+
+
 ## Unix locales
 
 ```sh
