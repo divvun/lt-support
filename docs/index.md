@@ -19,9 +19,11 @@ The core of the present state is that the language is owned by the tech giants, 
 [Technology exists](https://giellalt.github.io) for building [language technology tools](https://github.com/divvun) for most areas and most languages, but making those tools available on the systems people use is a very different matter.
 This site aims to document all areas where human languages matter on digital platforms, and whether that area is open for community access or control.
 
-Here's a list of background stories about real problems caused by this, from all sorts of languages (list to be expanded as things progress):
+## Stories from users and societies
 
-- [Icelandic](background_stories/Icelandic.md)
+Background stories about real problems caused by lack of LT support («language blocks»):
+
+- [Icelandic](background_stories/Icelandic.md) - «Icelandic language battles threat of 'digital extinction'»
 
 # Colour coding of status
 
