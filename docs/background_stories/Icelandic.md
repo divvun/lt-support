@@ -1,6 +1,11 @@
 # Icelandic
 
-- [The Guardian, Feb 2018](https://www.theguardian.com/world/2018/feb/26/icelandic-language-battles-threat-of-digital-extinction)
+- «Icelandic language battles threat of 'digital extinction'» [The Guardian, Feb 2018](https://www.theguardian.com/world/2018/feb/26/icelandic-language-battles-threat-of-digital-extinction) \
+    Interview with Professor Eiríkur Rögnvaldsson a.o. about the consequences of being locked out or poorly supported, and the impact of English today:
+
+    > The impact of English, however, “is unique in scale of impact, intensity of contact, speed of change”, Eiríkur said. “Smartphones didn’t exist 10 years ago. Today almost everyone is in almost full-time contact with English.”
+
+- More on online language contact:
 
     > Online, however, is the biggest concern. Apart from Google – which, mainly because it has an Icelandic engineer, has added Icelandic speech recognition to its Android mobile operating system – the internet giants have no interest in offering Icelandic options for a population the size of Cardiff’s.
 
