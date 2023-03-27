@@ -2,62 +2,74 @@ title: ISO 639-1
 description: Whether all ISO 639-1 codes are recognised by a system, with proper language names in both English and the native language
 column_titles:
   - System
+  - System version
   - Documentation
   - Codes
   - Language name in English
   - Language name native language
 system:
   Linux:
+    version: XX
     docs:  -
     codes: y
     ename: y
     nname: y
   Windows:
+    version: XX
     docs:  -
     codes: u
     ename: y
     nname: y
   macOS:
+    version: XX
     docs:  -
     codes: u
     ename: y
     nname: y
   Android:
+    version: XX
     docs:  -
     codes: u
     ename: y
     nname: y
   iOS:
+    version: XX
     docs:  -
     codes: u
     ename: y
     nname: y
   ChromeOS:
+    version: XX
     docs:  -
     codes: u
     ename: y
     nname: y
   O365/Win:
+    version: XX
     docs:  -
     codes: u
     ename: y
     nname: u
   O365/Mac:
+    version: XX
     docs:  -
     codes: u
     ename: y
     nname: u
   O365/Web:
+    version: XX
     docs:  -
     codes: u
     ename: y
     nname: u
   GDocs:
+    version: XX
     docs:  -
     codes: u
     ename: y
     nname: u
   LibreOffice:
+    version: XX
     docs:  -
     codes: u
     ename: y
