@@ -1,76 +1,85 @@
 title: ISO 639-1
 description: Whether all ISO 639-1 codes are recognised by a system, with proper language names in both English and the native language
-column_titles:
-  - System
-  - System version
-  - Documentation
-  - Codes
-  - Language name in English
-  - Language name native language
-system:
-  Linux:
+columns:
+  - id: system
+    name: System
+  - id: version
+    name: System version
+  - id: docs
+    name: Documentation
+  - id: codes
+    type: bool
+    name: Codes
+  - id: ename
+    type: bool
+    name: Language name in English
+  - id: nname
+    type: bool
+    name: Language name native language
+rows:
+  - system: Linux
     version: XX
-    docs:  -
-    codes: y
-    ename: y
-    nname: y
-  Windows:
+    docs: "-"
+    codes: yes
+    ename: yes
+    nname: yes
+  - system: Windows
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: y
-  macOS:
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: yes
+  - system: macOS
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: y
-  Android:
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: yes
+  - system: Android
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: y
-  iOS:
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: yes
+  - system: iOS
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: y
-  ChromeOS:
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: yes
+  - system: ChromeOS
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: y
-  O365/Win:
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: yes
+  - system: O365/Win
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: u
-  O365/Mac:
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: unknown
+  - system: O365/Mac
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: u
-  O365/Web:
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: unknown
+  - system: O365/Web
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: u
-  GDocs:
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: unknown
+  - system: GDocs
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: u
-  LibreOffice:
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: unknown
+  - system: LibreOffice
     version: XX
-    docs:  -
-    codes: u
-    ename: y
-    nname: u
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: unknown
