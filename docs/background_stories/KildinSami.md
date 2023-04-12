@@ -21,7 +21,7 @@ do not exist as single characters in Unicode. Instead, they are composed of the 
 Я А Е О Э Ю
 ```
 
-+ a **combining macron** that the system should *automatically* place above the base letters.
+\+ a **combining macron** that the system should *automatically* place above the base letters.
 
 This is the solution chosen by the Unicode consortium: no new letters with diacritics should be added, all should be handled using this automatic diacritic placement.
 
