@@ -27,6 +27,7 @@ This site aims to document all areas where human languages matter on digital pla
 Background stories about real problems caused by lack of LT support («language blocks»):
 
 - [Icelandic](background_stories/Icelandic.md) - «Icelandic language battles threat of 'digital extinction'»
+- [Kildin Sámi](background_stories/KildinSami.md)
 
 # Colour coding of status
 
