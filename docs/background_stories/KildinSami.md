@@ -26,3 +26,5 @@ do not exist as single characters in Unicode. Instead, they are composed of the 
 This is the solution chosen by the Unicode consortium: no new letters with diacritics should be added, all should be handled using this automatic diacritic placement.
 
 But as shown above, there is no guarantee that it works. And since this system *in practice* mostly targets indigenous languages, there is also no economic or other incentive to fix or indeed discover possible issues with the system.
+
+What do you think? Would you accept **Schloss Scho nbrunn** instead of **Schloss Schönbrunn**?
