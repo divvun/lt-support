@@ -4,7 +4,7 @@ An effort to document the (lack of) support for most of the languages of the wor
 
 # Background
 
-- 7000+ languages in the world
+- 7000+ [languages in the world](https://www.ethnologue.com)
 - 500+ languages [supported by GBoard](https://www.blog.google/products/search/say-mrhb-msawa-mihofnima-or-hello-500-languages-gboard/)
 - 200+ locales [in Windows](https://learn.microsoft.com/en-us/windows/win32/intl/locales-and-languages)
 - 50+ system & TTS languages in [macOS](https://support.apple.com/en-us/HT206175)
