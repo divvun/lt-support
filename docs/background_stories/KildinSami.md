@@ -11,13 +11,14 @@ In the screen shot above, the intended content of the message sent was: **О̄д
 The core of the issue is that the following Kildin Sámi letters:
 
 ```
-я̄ а̄ е̄ о̄ э̄ ю̄
+Я̄ А̄ Е̄ О̄ Э̄ Ю̄
 ```
+(as image for non-conforming browsers: ![Kilding Sámi letters](img/kildinsami-letters.png))
 
 do not exist as single characters in Unicode. Instead, they are composed of the base letters:
 
 ```
-я а е о э ю
+Я А Е О Э Ю
 ```
 
 + a **combining macron** that the system should *automatically* place above the base letters.
