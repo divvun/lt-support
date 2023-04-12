@@ -6,7 +6,7 @@ One such case is Kildin Sámi.
 
 ![Kildin Sámi screen shot](img/kildinsami-focus.jpg)
 
-In the screen shot above, the intended content of the message sent was: **О̄дт**, but it turnes out as **О дт**.
+In the screen shot above, the intended content of the message sent was: **О̄дт**, but it turnes out as **О дт**. The text was correct when entered using the keyboard, but not anymore when rendered by the messaging app after being sent.
 
 The core of the issue is that the following Kildin Sámi letters:
 
