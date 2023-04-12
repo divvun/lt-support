@@ -4,7 +4,6 @@ Many indigenous languages have alphabets based on Latin or Cyrillic, with additi
 
 One such case is Kildin Sámi.
 
-![Kildin Sámi screen shot](img/kildinsami.jpg)
 ![Kildin Sámi screen shot](img/kildinsami-focus.jpg)
 
 In the screen shot above, the intended content of the message sent was: **О̄дт**, but it turnes out as **О дт**.
