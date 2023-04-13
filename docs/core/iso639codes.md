@@ -8,22 +8,7 @@ It is unfortunate that the ISO 639 series of language codes are maintained by se
 
 !iso639-1.yaml
 
-## ISO 639-3
-
-<table>
-<tr><th>System</th>  <th>Codes</th>  <th>Language name in English</th> <th>Language name in native language</th></tr>
-<tr><td>Linux</td>      <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>Windows</td>    <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>macOS</td>      <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>Android</td>    <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>iOS</td>        <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>ChromeOS</td>   <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>O365/Win</td>   <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>O365/Mac</td>   <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>O365/Web</td>   <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>GDocs</td>      <td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-<tr><td>LibreOffice</td><td class="unknown">Unknown</td> <td class="good">Yes</td> <td class="unknown">Unknown</td></tr>
-</table>
+!iso639-3.yaml
 
 ## Possibility of adding or registering missing language codes
 
