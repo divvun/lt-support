@@ -1,109 +1,13 @@
-# Test
+# Basic LT: language codes, fonts, keyboards
 
-Beginning of inserted text comes after the line:
+For languages to be usable at all on a digital system, a few basic things need to be in place:
 
----
+- they must be recognised by the system, and recognisable by the users
+- it must be possible to display the letters of the language
+- it must be possible to input those letters
 
-<h2>ISO 639-1</h2>
-<p>Whether all ISO 639-1 codes are recognised by a system, with proper language names in both English and the native language</p>
-<table><thead><tr>
-<th>System</th>
-<th>System version</th>
-<th>Documentation</th>
-<th>Codes</th>
-<th>Language name in English</th>
-<th>Language name native language</th>
-</tr></thead><tbody>
-<tr>
-<td>Linux</td>
-<td>XX</td>
-<td>-</td>
-<td class="good">Yes</td>
-<td class="good">Yes</td>
-<td class="good">Yes</td>
-</tr>
-<tr>
-<td>Windows</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="good">Yes</td>
-</tr>
-<tr>
-<td>macOS</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="good">Yes</td>
-</tr>
-<tr>
-<td>Android</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="good">Yes</td>
-</tr>
-<tr>
-<td>iOS</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="good">Yes</td>
-</tr>
-<tr>
-<td>ChromeOS</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="good">Yes</td>
-</tr>
-<tr>
-<td>O365/Win</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="unknown">Unknown</td>
-</tr>
-<tr>
-<td>O365/Mac</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="unknown">Unknown</td>
-</tr>
-<tr>
-<td>O365/Web</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="unknown">Unknown</td>
-</tr>
-<tr>
-<td>GDocs</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="unknown">Unknown</td>
-</tr>
-<tr>
-<td>LibreOffice</td>
-<td>XX</td>
-<td>-</td>
-<td class="unknown">Unknown</td>
-<td class="good">Yes</td>
-<td class="unknown">Unknown</td>
-</tr>
-</tbody></table>
+The following pages cover these core functions:
 
----
-
-End of inserted text above the line.
+- [Language codes](iso639codes.md)
+- [Fonts](fonts.md)
+- [Keyboards](keyboards.md)
