@@ -21,11 +21,11 @@ for file in $(find docs -name '*.md'); do
             # convert yaml to html, and store in temp file:
             deno run --allow-read ./generate-tables.ts $yamlpathfile > $yamlpathfile.html
             # Insert temp file directly after yaml ref:
-            sed -i'' -e "/$yamlfile/r $yamlpathfile.html" "$file"
+            sed -i '' -e "/$yamlfile/r $yamlpathfile.html" "$file"
             # remove temp file:
             rm -f "$yamlpathfile.html"
         done
         # Remove all yaml refs:
-        sed -i'' -e '/^!.*yaml$/d' $file
+        sed -i '' -e '/^!.*yaml$/d' $file
     fi
 done;
