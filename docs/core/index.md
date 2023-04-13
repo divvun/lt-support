@@ -1,11 +1,13 @@
-# Test
+# Basic LT: language codes, fonts, keyboards
 
-Beginning of inserted text comes after the line:
+For languages to be usable at all on a digital system, a few basic things need to be in place:
 
----
+- they must be recognised by the system, and recognisable by the users
+- it must be possible to display the letters of the language
+- it must be possible to input those letters
 
-!iso639-1.yaml
+The following pages cover these core functions:
 
----
-
-End of inserted text above the line.
+- [Language codes](iso639codes.md)
+- [Fonts](fonts.md)
+- [Keyboards](keyboards.md)

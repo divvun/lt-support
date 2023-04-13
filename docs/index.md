@@ -43,8 +43,7 @@ Links to documentation is provided if available/found.
 
 # Sections
 
-- [basics: language codes, fonts, keyboards](core.md)
-    - [basics: test page new build](core/index.md)
+- [basics: language codes, fonts, keyboards](core/index.md)
 - [proofing tools](proof.md)
 - [speech technology, including digital assistants](speech.md)
 - [localisation](localisation.md)
