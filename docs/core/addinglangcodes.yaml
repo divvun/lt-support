@@ -1,0 +1,86 @@
+title: Adding or registering missing language codes
+description: While waiting for a Unicode like model for maintaining language codes, it is necessary that users or independent developers can add missing language codes as needed. The following table describes the status for this option.
+
+columns:
+  - id: system
+    name: System
+  - id: version
+    name: System version
+  - id: docs
+    name: Documentation/Comments
+  - id: codes
+    type: bool
+    name: Codes
+  - id: ename
+    type: bool
+    name: Language name in English
+  - id: nname
+    type: bool
+    name: Language name native language
+rows:
+  - system: Linux
+    version: XX
+    docs: "-"
+    codes: yes
+    ename: yes
+    nname: yes
+  - system: Windows
+    version: XX
+    docs: "-"
+    codes: partial
+    ename: yes
+    nname: yes
+  - system: macOS
+    version: XX
+    docs: "-"
+    codes: partial
+    ename: no
+    nname: no
+  - system: Android
+    version: XX
+    docs: "-"
+    codes: no
+    ename: no
+    nname: no
+  - system: iOS
+    version: XX
+    docs: "-"
+    codes: no
+    ename: no
+    nname: no
+  - system: ChromeOS
+    version: XX
+    docs: "-"
+    codes: no
+    ename: no
+    nname: no
+  - system: O365/Win
+    version: XX
+    docs: Codes and names from the OS
+    codes: partial
+    ename: yes
+    nname: yes
+  - system: O365/Mac
+    version: XX
+    docs: "-"
+    codes: no
+    ename: no
+    nname: no
+  - system: O365/Web
+    version: XX
+    docs: "-"
+    codes: no
+    ename: no
+    nname: no
+  - system: GDocs
+    version: XX
+    docs: "-"
+    codes: no
+    ename: no
+    nname: no
+  - system: LibreOffice
+    version: XX
+    docs: "-"
+    codes: unknown
+    ename: yes
+    nname: unknown
