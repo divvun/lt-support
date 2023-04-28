@@ -30,9 +30,9 @@ rows:
     ename: yes
     nname: yes
   - system: macOS
-    version: XX
+    version: 13.x
     docs: "-"
-    codes: unknown
+    codes: partial
     ename: yes
     nname: yes
   - system: Android
