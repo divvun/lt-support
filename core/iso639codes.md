@@ -34,9 +34,9 @@ It is unfortunate that the ISO 639 series of language codes are maintained by se
 </tr>
 <tr>
 <td>macOS</td>
-<td>XX</td>
+<td>13.x</td>
 <td>-</td>
-<td class="unknown">Unknown</td>
+<td class="partial">Partial</td>
 <td class="good">Yes</td>
 <td class="good">Yes</td>
 </tr>
