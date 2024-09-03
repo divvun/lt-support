@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [LT Support]
-description: ["Or: Can I use my language? Documentation of open LT support in common OS's and Office packages. <br/> <br/> ⚠️ This is early work, most is still TBW. Please contribute by forking and submitting PRs 😊"]
+title: [Open Language — LT Support]
+description: ["Or: Can I use my language? Documentation of open language technology (LT) support in common OS's and Office packages. <br/> <br/> ⚠️ This is early work, most is still TBW. Please contribute by forking and submitting PRs 😊"]
