@@ -8,7 +8,7 @@ An effort to document the (lack of) support for most of the languages of the wor
 
 vs
 
-- 500+ languages [supported by GBoard](https://www.blog.google/products/search/say-mrhb-msawa-mihofnima-or-hello-500-languages-gboard/)
+- 500+ languages [supported by GBoard](https://www.blog.google/products/search/say-mrhb-msawa-mihofnima-or-hello-500-languages-gboard/) (600+ languages/900+ locales as of September 2024)
 - 200+ locales [in Windows](https://learn.microsoft.com/en-us/windows/win32/intl/locales-and-languages)
 - 50+ system & TTS languages in [macOS](https://support.apple.com/en-us/HT206175)
 - 20 dictation and Siri languages in macOS & iOS
